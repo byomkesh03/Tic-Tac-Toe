@@ -21,7 +21,8 @@ You can play the game online [here](https://byomkesh03.github.io/Tic-Tac-Toe/).
 
 ## Screenshots
 
-Include screenshots of the game interface or gameplay here.
+![Screenshot](path/to/screenshot.png)
+
 
 ## Installation
 
