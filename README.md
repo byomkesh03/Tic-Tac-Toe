@@ -13,7 +13,7 @@ You can play the game online [here](https://byomkesh03.github.io/Tic-Tac-Toe/).
 
 - Classic Tic Tac Toe gameplay.
 - Interactive user interface.
-- Fully Responsive, You Can Play With Your Favorite Device.
+- Fully Responsive, You Can Play It on Your Favorite Device.
 - Support for two players.
 - Real-time validation of moves.
 - Automatic detection of game outcomes (win, draw).
