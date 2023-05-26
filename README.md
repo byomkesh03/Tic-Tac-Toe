@@ -18,6 +18,7 @@ You can play the game online [here](https://byomkesh03.github.io/Tic-Tac-Toe/).
 - Real-time validation of moves.
 - Automatic detection of game outcomes (win, draw).
 - Restart option to play again.
+- Reset The Game After Game Play
 
 ## Screenshots
 
